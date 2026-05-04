@@ -220,6 +220,4 @@ LevelUp Basketball Training/
 
 This is a comprehensive basketball training platform designed to help players at all levels improve their game. The modular architecture makes it easy to add new features and customize the training experience.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
